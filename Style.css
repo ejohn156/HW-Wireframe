@@ -7,7 +7,7 @@ aside {
 header
 {
     background-color: white;
-    height: 60px;
+    height: 60px;  
 }
 nav
 {
@@ -65,4 +65,14 @@ html
 {
     margin-left: 40px;
     margin-right: 40px;
+}
+header h1
+{
+    padding-top: 10px;
+}
+nav h1{padding-top: 15px;}
+article header h1
+{
+    font-size: 25px;
+    padding-top: 25px;
 }
